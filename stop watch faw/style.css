@@ -1,0 +1,31 @@
+.maind {
+     width: 700px; 
+    height: 500px; 
+    text-align: center; 
+    display: block;
+      padding: 5px;
+       margin: 0 auto;  
+    background-image: url(https://img.freepik.com/free-photo/male-hand-starts-analog-stopwatch-black-background-close-up-isolate-copy-space_94132-222.jpg?size=626&ext=jpg);}
+ span{ width: auto;
+     height: auto;
+      padding: 2px; 
+      font-weight: bold;
+       font-family: tahoma;
+        display: block;
+         border: 1px solid #eee;
+          text-align: center;
+           box-shadow: 0 0 5px #ccc;
+            background: #fbfbf0;
+             color: blue;
+              border-bottom:4px solid darkgrey; }
+     button { cursor: pointer;
+                 font-weight: 700;
+                width: 100px; } 
+    .head{
+        font-size: 52px;
+        color: rgb(20, 220, 53);
+        text-shadow: 3px 4px 4px gray;
+    }
+    h1{
+        color: white;
+    }
